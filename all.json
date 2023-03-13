@@ -2,6 +2,7 @@
   "pyrun": {
     "name": "PyRun",
     "folder": "pyrun",
+    "zip": "PyRun.zip",
     "ui": {
       "thumbnail": "PyRunBanner.png",
       "logo": "PyRunLogo.png",
