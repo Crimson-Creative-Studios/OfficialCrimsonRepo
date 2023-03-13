@@ -1,0 +1,11 @@
+{
+  "pyrun": {
+    "name": "PyRun",
+    "folder": "pyrun",
+    "ui": {
+      "thumbnail": "thumbnail.png",
+      "logo": "logo.png",
+      "description": "PyRun is a library that provides powerful functions to developers, the main one? Running Python inside of Crimson and returning the results for use, whether you want to use PIL, PyTorch or NumPy this is the Python library for you."
+    }
+  }
+}
