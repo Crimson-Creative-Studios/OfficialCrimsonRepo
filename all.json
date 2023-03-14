@@ -6,7 +6,17 @@
     "ui": {
       "thumbnail": "PyRunBanner.png",
       "logo": "PyRunLogo.png",
-      "description": "PyRun is a library that provides powerful functions to developers, the main one? Running Python inside of Crimson and returning the results for use, whether you want to use PIL, PyTorch or NumPy this is the Python library for you."
+      "description": "Made by DevLime\n\nPyRun is a library that provides powerful functions to developers, the main one? Running Python inside of Crimson and returning the results for use, whether you want to use PIL, PyTorch or NumPy this is the Python library for you."
+    }
+  },
+  "uwuinator": {
+    "name": "UwUinator",
+    "folder": "uwuinator",
+    "zip": "UwU.zip",
+    "ui": {
+      "thumbnail": "UwUT.png",
+      "logo": "UwUL.png",
+      "description": "Made by DevLime\n\nUwUinator will resend all your messages in UwU form/n/nDon't Bully me, I was dared to make this..."
     }
   }
 }
