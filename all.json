@@ -5,7 +5,6 @@
     "zip": "PyRun.zip",
     "authors": ["DevLime"],
     "ui": {
-      "thumbnail": "PyRunBanner.png",
       "logo": "PyRunLogo.png",
       "description": "PyRun is a library that provides powerful functions to developers, the main one? Running Python inside of Crimson and returning the results for use, whether you want to use PIL, PyTorch or NumPy this is the Python library for you."
     }
@@ -16,7 +15,6 @@
     "zip": "UwU.zip",
     "authors": ["DevLime"],
     "ui": {
-      "thumbnail": "UwUT.png",
       "logo": "UwUL.png",
       "description": "UwUinator will resend all your messages in UwU form<br><br>Don't Bully me, I was dared to make this..."
     }
