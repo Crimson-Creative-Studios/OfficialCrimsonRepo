@@ -41,28 +41,28 @@
     "ui": {
       "logo": "UwUL.png",
       "description": "UwUinator will resend all your messages in UwU form<br><br>Don't Bully me, I was dared to make this...",
-      "light": {
-        "background": {
-          "main": "default",
-          "alt": "default"
-        },
-        "button": {
-          "main": "default",
-          "hov": "default",
-          "act": "default",
-          "hovact": "default"
-        }
-      },
       "dark": {
         "background": {
-          "main": "default",
-          "alt": "default"
+          "main": "#41153c",
+          "alt": "#391334"
         },
         "button": {
-          "main": "default",
-          "hov": "default",
-          "act": "default",
-          "hovact": "default"
+          "main": "#A33596",
+          "hov": "#933087",
+          "act": "#822a78",
+          "hovact": "#722569"
+        }
+      },
+      "light": {
+        "background": {
+          "main": "#e9bce4",
+          "alt": "#e6b1e0"
+        },
+        "button": {
+          "main": "#A33596",
+          "hov": "#b93caa",
+          "act": "#c54eb7",
+          "hovact": "#cc64c0"
         }
       }
     }
