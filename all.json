@@ -11,12 +11,24 @@
         "background": {
           "main": "#ffffff",
           "alt": "#eeeeee"
+        },
+        "button": {
+          "main": "#FED142",
+          "hov": "#fec922",
+          "act": "#fec102",
+          "hovact": "#dfaa01"
         }
       },
       "dark": {
         "background": {
           "main": "#000000",
           "alt": "#111111"
+        },
+        "button": {
+          "main": "#3571A3",
+          "hov": "#306693",
+          "act": "#2a5a82",
+          "hovact": "#254f72"
         }
       }
     }
@@ -33,12 +45,24 @@
         "background": {
           "main": "default",
           "alt": "default"
+        },
+        "button": {
+          "main": "default",
+          "hov": "default",
+          "act": "default",
+          "hovact": "default"
         }
       },
       "dark": {
         "background": {
           "main": "default",
           "alt": "default"
+        },
+        "button": {
+          "main": "default",
+          "hov": "default",
+          "act": "default",
+          "hovact": "default"
         }
       }
     }
