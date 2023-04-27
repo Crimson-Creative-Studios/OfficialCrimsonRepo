@@ -42,7 +42,7 @@
     "ui": {
       "logo": "UwUL.png",
       "description": "UwUinator will resend all your messages in UwU form<br><br>Don't Bully me, I was dared to make this...",
-      "type": "unofficial",
+      "type": "official",
       "dark": {
         "background": {
           "main": "#41153c",
