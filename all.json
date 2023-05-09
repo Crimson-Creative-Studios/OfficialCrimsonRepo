@@ -68,5 +68,40 @@
         }
       }
     }
-  }
+  },
+  "linkbot": {
+    "name": "LinkBot",
+    "folder": "linkbot",
+    "zip": "LinkBot.zip",
+    "authors": ["DevLime"],
+    "ui": {
+      "logo": "LinkBot.png",
+      "description": "Links two channels together, even from different servers!<br><br>Inter-server communication!",
+      "type": "official",
+      "light": {
+            "background": {
+                "main": "",
+                "alt": ""
+            },
+            "button": {
+                "main": "#0ACC9F",
+                "hov": "#0be8b5",
+                "act": "#1df4c2",
+                "hovact": "#39f5ca"
+            }
+        },
+        "dark": {
+            "background": {
+                "main": "",
+                "alt": ""
+            },
+            "button": {
+                "main": "#0ACC9F",
+                "hov": "#09b88f",
+                "act": "#08a37f",
+                "hovact": "#078f6f"
+            }
+        }
+    }
+  },
 }
