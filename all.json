@@ -83,7 +83,8 @@
                 "main": "#ffffff",
                 "hov": "#f2f2f2",
                 "act": "#e6e6e6",
-                "hovact": "#d9d9d9"
+                "hovact": "#d9d9d9",
+                "text": "#000000"
             }
         }
     },
