@@ -1,0 +1,3 @@
+{
+    "required": ["discord-player", "@discord-player/extractor", "ytdl-core"]
+}
