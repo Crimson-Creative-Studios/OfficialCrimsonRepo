@@ -1,100 +1,61 @@
 {
-  "pyrun": {
-    "name": "PyRun",
-    "folder": "pyrun",
-    "zip": "PyRun.zip",
-    "authors": ["Divea"],
-    "ui": {
-      "logo": "PyRunLogo.png",
-      "description": "PyRun is a library that provides powerful functions to other extensions, the main one? Running Python inside of Crimson and returning the results for use, whether you want to use PIL, PyTorch or NumPy this is the Python library for you.",
-      "type": "official",
-      "light": {
-        "background": {
-          "main": "#ffffff",
-          "alt": "#eeeeee"
-        },
-        "button": {
-          "main": "#FED142",
-          "hov": "#fec922",
-          "act": "#fec102",
-          "hovact": "#dfaa01"
-        }
-      },
-      "dark": {
-        "background": {
-          "main": "#000000",
-          "alt": "#111111"
-        },
-        "button": {
-          "main": "#3571A3",
-          "hov": "#306693",
-          "act": "#2a5a82",
-          "hovact": "#254f72"
-        }
-      }
-    }
-  },
-  "uwuinator": {
-    "name": "UwUinator",
-    "folder": "uwuinator",
-    "zip": "UwU.zip",
-    "authors": ["Divea"],
-    "ui": {
-      "logo": "UwUL.png",
-      "description": "UwUinator will resend all your messages in UwU form<br><br>Don't Bully me, I was dared to make this...<br>I warn you now, don't have this permenatly enabled!",
-      "type": "official",
-      "dark": {
-        "background": {
-          "main": "#41153c",
-          "alt": "#391334"
-        },
-        "button": {
-          "main": "#A33596",
-          "hov": "#933087",
-          "act": "#822a78",
-          "hovact": "#722569"
-        }
-      },
-      "light": {
-        "background": {
-          "main": "#e9bce4",
-          "alt": "#e6b1e0"
-        },
-        "button": {
-          "main": "#A33596",
-          "hov": "#b93caa",
-          "act": "#c54eb7",
-          "hovact": "#cc64c0"
-        }
-      }
-    }
-  },
-  "linkbot": {
-    "name": "LinkBot",
-    "folder": "linkbot",
-    "zip": "LinkBot.zip",
-    "authors": ["Divea"],
-    "ui": {
-      "logo": "LinkBot.png",
-      "description": "Links two channels together, even from different servers!<br><br>Inter-server communication!",
-      "type": "official",
-      "light": {
+    "pyrun": {
+        "name": "PyRun",
+        "folder": "pyrun",
+        "zip": "PyRun.zip",
+        "authors": [
+            "Nova"
+        ],
+        "ui": {
+            "logo": "PyRunLogo.png",
+            "description": "PyRun is a library that provides powerful functions to other extensions, the main one? Running Python inside of Crimson and returning the results for use, whether you want to use PIL, PyTorch or NumPy this is the Python library for you.",
+            "type": "official",
             "background": {
-                "main": "",
-                "alt": ""
+                "main": "#000000",
+                "alt": "#111111"
             },
             "button": {
-                "main": "#0ACC9F",
-                "hov": "#0be8b5",
-                "act": "#1df4c2",
-                "hovact": "#39f5ca"
+                "main": "#3571A3",
+                "hov": "#306693",
+                "act": "#2a5a82",
+                "hovact": "#254f72"
             }
-        },
-        "dark": {
+        }
+    },
+    "uwuinator": {
+        "name": "UwUinator",
+        "folder": "uwuinator",
+        "zip": "UwU.zip",
+        "authors": [
+            "Nova"
+        ],
+        "ui": {
+            "logo": "UwUL.png",
+            "description": "UwUinator will resend all your messages in UwU form<br><br>Don't Bully me, I was dared to make this...<br>I warn you now, don't have this permenatly enabled!",
+            "type": "official",
             "background": {
-                "main": "",
-                "alt": ""
+                "main": "#e9bce4",
+                "alt": "#e6b1e0"
             },
+            "button": {
+                "main": "#A33596",
+                "hov": "#b93caa",
+                "act": "#c54eb7",
+                "hovact": "#cc64c0"
+            }
+        }
+    },
+    "linkbot": {
+        "name": "LinkBot",
+        "folder": "linkbot",
+        "zip": "LinkBot.zip",
+        "authors": [
+            "Nova"
+        ],
+        "ui": {
+            "logo": "LinkBot.png",
+            "description": "Links two channels together, even from different servers!<br><br>Inter-server communication!",
+            "type": "official",
             "button": {
                 "main": "#0ACC9F",
                 "hov": "#09b88f",
@@ -102,6 +63,67 @@
                 "hovact": "#078f6f"
             }
         }
+    },
+    "levelup": {
+        "name": "Level Up!",
+        "folder": "levelup",
+        "zip": "LevelUp.zip",
+        "authors": [
+            "Nova"
+        ],
+        "ui": {
+            "logo": "LevelUp.png",
+            "description": "Level Up using this extension, this adds a leveling system to your Discord server!",
+            "type": "official",
+            "background": {
+                "main": "#49cacc",
+                "alt": "rgba(0,0,0,0.075)"
+            },
+            "button": {
+                "main": "#ffffff",
+                "hov": "#f2f2f2",
+                "act": "#e6e6e6",
+                "hovact": "#d9d9d9"
+            }
+        }
+    },
+    "informer": {
+        "name": "Informer",
+        "folder": "informer",
+        "zip": "Informer.zip",
+        "authors": [
+            "Nova"
+        ],
+        "ui": {
+            "logo": "Informer.png",
+            "description": "Get lots of useful information about your server",
+            "type": "official"
+        }
+    },
+    "modinator": {
+        "name": "Modinator",
+        "folder": "modinator",
+        "zip": "Modinator.zip",
+        "authors": [
+            "Nova"
+        ],
+        "ui": {
+            "logo": "Modinator.png",
+            "description": "Moderate your server, with style, idk, just has a bunch of cool moderation commands",
+            "type": "official"
+        }
+    },
+    "musicx": {
+        "name": "MusicX",
+        "folder": "musicx",
+        "zip": "MusicX.zip",
+        "authors": [
+            "Nova"
+        ],
+        "ui": {
+            "logo": "MusicX.png",
+            "description": "Music in your voice chats, WOOOOOOOO!",
+            "type": "official"
+        }
     }
-  }
 }
