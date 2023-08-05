@@ -98,7 +98,7 @@
         "ui": {
             "logo": "Informer.png",
             "description": "Get lots of useful information about your server",
-            "type": "official"
+            "type": "core"
         }
     },
     "modinator": {
